@@ -83,5 +83,5 @@ dependencies {
   implementation(libs.androidx.lifecycle.viewmodel.navigation3)
 
   // PayGen SDK
-  implementation("com.github.Akash-80442:paygen-sdk:v1.1.0")
+  implementation("com.paygen.sdk:paygen-sdk:1.1.2")
 }
